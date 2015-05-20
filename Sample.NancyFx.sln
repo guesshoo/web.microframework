@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Sample.NancyFx", "Sample.NancyFx\Sample.NancyFx.fsproj", "{76FA5FE5-D1ED-4E76-A148-ADE61D7A530C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another", "Another\Another.csproj", "{09B81828-AD91-403F-8DCE-1006876160D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B81828-AD91-403F-8DCE-1006876160D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B81828-AD91-403F-8DCE-1006876160D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B81828-AD91-403F-8DCE-1006876160D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B81828-AD91-403F-8DCE-1006876160D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FA5FE5-D1ED-4E76-A148-ADE61D7A530C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FA5FE5-D1ED-4E76-A148-ADE61D7A530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FA5FE5-D1ED-4E76-A148-ADE61D7A530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FA5FE5-D1ED-4E76-A148-ADE61D7A530C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
